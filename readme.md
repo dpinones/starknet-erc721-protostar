@@ -58,8 +58,9 @@ Listo ya realizo el deploy de su contrato. Ahora puede continuar en [consignas](
 
 ## Convertir string a int
 
-Listo ya realizo el deploy de su contrato. Ahora puede continuar en [consignas](https://github.com/starknet-edu/starknet-erc721#tasks-list)
+Puede convertir un string en un int utilizando el editor online https://www.cairo-lang.org/playground/ 
 
+Utilice el siguiente código
 ```
 %builtins output
 
