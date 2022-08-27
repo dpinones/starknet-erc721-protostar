@@ -82,6 +82,6 @@ Reemplazar el contenido de las comillas para convertir un string en int.
 
 ## Links
 
-[Documentación de Protostar](https://docs.swmansion.com/protostar/docs/tutorials/introduction)
-[Henri explica como realizar el tutorial ERC721](https://www.youtube.com/watch?v=PJWIgIoj5kw)
-[OpenZeppelin Contracts for Cairo](https://github.com/OpenZeppelin/cairo-contracts)
+- [Documentación de Protostar](https://docs.swmansion.com/protostar/docs/tutorials/introduction)
+- [Henri explica como realizar el tutorial ERC721](https://www.youtube.com/watch?v=PJWIgIoj5kw)
+- [OpenZeppelin Contracts for Cairo](https://github.com/OpenZeppelin/cairo-contracts)
