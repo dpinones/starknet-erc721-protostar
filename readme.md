@@ -27,8 +27,8 @@ Reiniciar el terminal
 Ver la versión que instalamos
 ```bash
 protostar -v
->> Protostar version: 0.3.2                                                        
->> Cairo-lang version: ^0.9.1
+>> Protostar version: 0.4.2                                                        
+>> Cairo-lang version: ^0.10.0
 ```
 
 ### Step 4 - Instalar la biblioteca de OpenZeppelin
